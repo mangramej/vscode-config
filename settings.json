@@ -1,0 +1,20 @@
+{
+    "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "editor.fontWeight": "bold",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Mokka",
+    "breadcrumbs.enabled": false,
+    "workbench.statusBar.visible": true,
+    "window.commandCenter": false,
+    "chat.commandCenter.enabled": false,
+    "window.title": "",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.menuBarVisibility": "compact",
+    "workbench.activityBar.location": "hidden",
+    "workbench.sideBar.location": "right",
+    "workbench.editor.showTabs": "none",
+    "files.autoSave": "afterDelay",
+    "editor.lineNumbers": "relative",
+    "clock.dateFormat": "dddd, mmmm dS, yyyy, h:MM TT"
+}
